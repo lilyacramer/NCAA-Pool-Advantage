@@ -11,7 +11,7 @@ This project investigates whether pool characteristics systematically influence 
 ## Repository Contents
 
 **Paper** — paper/ folder
-- Final paper (PDF), LaTeX source, bibliography, and figures
+- Final report (PDF), LaTeX source, bibliography, and figures
 
 **Code** — code/ folder
 - 01_data_cleaning.R — Data wrangling, time conversion, and standardization
