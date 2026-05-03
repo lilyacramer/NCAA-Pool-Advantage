@@ -33,10 +33,3 @@ Note: Raw swimmer-level data is not included due to privacy considerations.
 
 Performance data: USA Swimming Top 500 Times, 2021–2026 women's NCAA seasons
 Facility data: Collected from institutional aquatic center websites
-
-## Key Findings
-
-- Indoor environment and altitude are the strongest predictors of pool speed
-- Pool depth and lane count are not statistically significant after controlling for athlete and team quality
-- The pool fixed effects model outperforms the characteristics model (AIC: 10,538 vs. 10,563)
-- Christiansburg Aquatic Center ranks as the fastest pool in the sample
